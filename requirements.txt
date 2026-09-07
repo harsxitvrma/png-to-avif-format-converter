@@ -1,0 +1,2 @@
+pillow-avif-plugin==1.6.0
+pillow-heif==1.7.0
